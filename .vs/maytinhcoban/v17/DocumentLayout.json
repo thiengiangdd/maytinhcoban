@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\maytinhcoban\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCDF6FF0-31B8-4BC2-965E-F8EC4B3D94BE}|maytinhcoban\\maytinhcoban.csproj|c:\\users\\lenovo\\source\\repos\\maytinhcoban\\maytinhcoban\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCDF6FF0-31B8-4BC2-965E-F8EC4B3D94BE}|maytinhcoban\\maytinhcoban.csproj|solutionrelative:maytinhcoban\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCDF6FF0-31B8-4BC2-965E-F8EC4B3D94BE}|maytinhcoban\\maytinhcoban.csproj|C:\\Users\\LENOVO\\source\\repos\\maytinhcoban\\maytinhcoban\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BCDF6FF0-31B8-4BC2-965E-F8EC4B3D94BE}|maytinhcoban\\maytinhcoban.csproj|solutionrelative:maytinhcoban\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\maytinhcoban\\maytinhcoban\\Form1.cs",
+              "RelativeDocumentMoniker": "maytinhcoban\\Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\maytinhcoban\\maytinhcoban\\Form1.cs",
+              "RelativeToolTip": "maytinhcoban\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:07:23.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\maytinhcoban\\maytinhcoban\\Form1.cs",
+              "RelativeDocumentMoniker": "maytinhcoban\\Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\maytinhcoban\\maytinhcoban\\Form1.cs [Design]",
+              "RelativeToolTip": "maytinhcoban\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T14:52:14.467Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

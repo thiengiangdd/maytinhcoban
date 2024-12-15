@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\maytinhcoban\maytinhcoban\bin\Debug\maytinhcoban.exe.config
+C:\Users\LENOVO\source\repos\maytinhcoban\maytinhcoban\bin\Debug\maytinhcoban.exe
+C:\Users\LENOVO\source\repos\maytinhcoban\maytinhcoban\bin\Debug\maytinhcoban.pdb
+C:\Users\LENOVO\source\repos\maytinhcoban\maytinhcoban\obj\Debug\maytinhcoban.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\maytinhcoban\maytinhcoban\obj\Debug\maytinhcoban.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\maytinhcoban\maytinhcoban\obj\Debug\maytinhcoban.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\maytinhcoban\maytinhcoban\obj\Debug\maytinhcoban.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\maytinhcoban\maytinhcoban\obj\Debug\maytinhcoban.exe
+C:\Users\LENOVO\source\repos\maytinhcoban\maytinhcoban\obj\Debug\maytinhcoban.pdb
+C:\Users\LENOVO\source\repos\maytinhcoban\maytinhcoban\obj\Debug\maytinhcoban.Form1.resources
